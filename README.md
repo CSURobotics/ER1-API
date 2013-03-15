@@ -1,4 +1,4 @@
-ER1-Robot-Interface
+ER1-APIE
 ===================
 
-This is a repository to host the Robot Interface source code for the ER1 robot.
+This is a repository to host the API source code for the ER1 robot.
